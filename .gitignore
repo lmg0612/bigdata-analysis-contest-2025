@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.gradle/
+build/
+local.properties
+*.class
+out/
